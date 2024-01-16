@@ -49,10 +49,6 @@
 				"Win64",
 				"Android"
 			]
-		},
-		{
-			"Name": "YawVR",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
