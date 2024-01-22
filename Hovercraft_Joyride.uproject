@@ -53,6 +53,10 @@
 		{
 			"Name": "LogitechWheelPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "YawVR",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
